@@ -1,0 +1,4 @@
+*.txt
+!Uploads/fichier.txt
+*vendors/
+
